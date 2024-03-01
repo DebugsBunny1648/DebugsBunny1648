@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasant Kumar</h1>
-<img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&ga=GA1.1.2116753496.1709271719&semt=ais" alt="❤️">
+<img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&ga=GA1.1.2116753496.1709271719&semt=ais" alt="❤️"  width=1400px height=350px>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debugsbunny1648&label=Profile%20views&color=0e75b6&style=flat" alt="debugsbunny1648" /> </p>
@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debugsbunny1648&show_icons=true&locale=en" alt="debugsbunny1648" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debugsbunny1648&" alt="debugsbunny1648" /></p>
+
+<img src="https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" alt="debugsbunny1648" width=1400px height=300px />
