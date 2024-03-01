@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasant Kumar</h1>
+<img src="https://www.freepik.com/free-photo/rear-view-programmer-working-all-night-long_5698334.htm#query=computer%20programmer&position=0&from_view=keyword&track=ais&uuid=25e2d5dd-8bb0-48c7-a050-8475c85e3c15" alt="debugsbunny1648" />
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debugsbunny1648&label=Profile%20views&color=0e75b6&style=flat" alt="debugsbunny1648" /> </p>
