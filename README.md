@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**DebugsBunny1648/DebugsBunny1648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Prasant Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
